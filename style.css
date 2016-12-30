@@ -1,0 +1,47 @@
+#main
+{
+  background-color: #8da9c6;
+  height: auto;
+  width: auto;
+  text-align: center;
+
+  font-family: Montserrat;
+
+  border-style: solid;
+  border-width: 77px 171px 94px 125px;
+  -moz-border-image: url(ropeborder.png) 211 392 228 300 repeat;
+  -webkit-border-image: url(ropeborder.png) 211 392 228 300 repeat;
+  -o-border-image: url(ropeborder.png) 211 392 228 300 repeat;
+  border-image: url(ropeborder.png) 211 392 228 300 repeat;
+}
+
+#main h2
+{
+  color: #FBEE89;
+  font-size: 2.5rem;
+
+  text-shadow: 3px 3px 2px #2E2E2E;
+  margin: .5em;
+  padding: .5em;
+}
+
+#main h4
+{
+  color: #FBE189;
+  font-size: 1rem;
+  text-shadow: 3px 3px 2px #2E2E2E;
+  margin: .5em;
+  padding: .5em;
+}
+
+#main #portrait
+{
+  height: 25em;
+  width: auto;
+  border: 15px solid white;
+  margin: 2em;
+  box-shadow: 16px 16px 3px black;
+
+
+
+}
